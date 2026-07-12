@@ -1,104 +1,103 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DAVIRAGROUP/.github/main/assets/logo-horizontal.png" width="720" alt="Davira Group"/>
+<img src="https://raw.githubusercontent.com/DAVIRAGROUP/.github/main/assets/logo.png" width="720" alt="Davira Group"/>
 
 # Engineering Software That Lasts
 
-### Enterprise Software • Artificial Intelligence • Quality Engineering • Cloud Solutions
-
-Designing secure, scalable and intelligent software for businesses.
+### Building secure, scalable and intelligent software for modern businesses.
 
 <p>
 
-<a href="https://daviragroup.com.br">🌐 Website</a> •
+<a href="https://daviragroup.com.br">🌐 Website</a>
+•
 <a href="https://github.com/DAVIRAGROUP">💻 GitHub</a>
 
 </p>
 
 ---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Playwright](https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright)
+![Enterprise Software](https://img.shields.io/badge/Enterprise-Software-1E3A8A?style=for-the-badge)
+![SaaS Products](https://img.shields.io/badge/SaaS-Products-2563EB?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial-Intelligence-7C3AED?style=for-the-badge)
+![Quality Engineering](https://img.shields.io/badge/Quality-Engineering-0F766E?style=for-the-badge)
+![Security by Design](https://img.shields.io/badge/Security-By%20Design-059669?style=for-the-badge)
 
 </div>
 
 ---
 
-# About Davira Group
+# About
 
-Davira Group is a software engineering company dedicated to building enterprise-grade products that combine technology, quality engineering, artificial intelligence and modern cloud architecture.
+Davira Group is a Software Engineering company focused on designing, developing and evolving enterprise software.
 
-We believe software should be designed to evolve, remain maintainable and deliver long-term business value.
+We build digital products that combine modern software engineering, artificial intelligence, quality engineering and secure architecture to solve real business challenges.
 
-Rather than simply writing code, we engineer digital products with governance, security and quality as core principles.
-
----
-
-# Our Mission
-
-Deliver software that organizations can trust.
-
-Every solution we build aims to improve business operations through reliable architecture, automation, governance and intelligent technology.
+Our goal is to deliver solutions designed for long-term evolution, emphasizing maintainability, scalability, governance and operational excellence.
 
 ---
 
-# Our Vision
+# Mission
 
-Become a recognized reference in enterprise software engineering by developing products that combine innovation, artificial intelligence, quality engineering and secure architecture.
+Build software organizations can trust.
+
+We create digital products that improve business operations while maintaining the highest standards of engineering, quality, security and transparency.
+
+---
+
+# Vision
+
+Become a reference in Software Engineering by delivering products that combine innovation, intelligent automation and engineering excellence.
 
 ---
 
 # Core Values
 
-- Customer Success
 - Engineering Excellence
-- Continuous Learning
-- Security First
+- Customer Success
+- Continuous Improvement
 - Quality First
+- Security First
 - Transparency
-- Long-Term Thinking
 - Innovation with Responsibility
+- Long-Term Thinking
+
+---
+
+# What We Do
+
+Our expertise includes:
+
+- Enterprise Software
+- SaaS Platforms
+- Artificial Intelligence
+- Business Automation
+- Financial Systems
+- Quality Engineering
+- Test Automation
+- APIs & System Integrations
+- Digital Transformation
+- Enterprise Architecture
+- Cloud-Native Applications
 
 ---
 
 # Engineering Principles
 
-Every product developed by Davira Group follows the same engineering standards.
+Every solution developed by Davira Group follows the same engineering standards.
 
 | Principle | Description |
 |------------|-------------|
 | 📚 Documentation First | Documentation evolves together with the product. |
-| 📐 Spec-Driven Development | Every feature starts with a written specification. |
-| 🧪 Quality First | Quality is designed into the product from the beginning. |
-| 🔐 Security by Design | Security is considered in every architectural decision. |
-| 🔒 Privacy by Design | Privacy requirements are addressed from day one. |
-| 🤖 AI Native | Artificial Intelligence is integrated where it creates value. |
+| 📐 Spec-Driven Development | Every feature starts with a formal specification before implementation. |
 | 🏛 Clean Architecture | Business rules remain independent from frameworks. |
 | 📦 Domain-Driven Design | Systems are modeled around business domains. |
+| 🔐 Security by Design | Security is integrated into every architectural decision. |
+| 🔒 Privacy by Design | Privacy requirements are considered from day one. |
+| 🧪 Quality First | Quality is designed into the product from the beginning. |
+| 🤖 AI Native | Artificial Intelligence is applied wherever it creates business value. |
 | 🚀 DevSecOps | Automation and security are integrated into delivery pipelines. |
-| 📊 Observability | Logs, metrics and tracing are first-class citizens. |
-| ☁ Infrastructure as Code | Infrastructure is versioned and reproducible. |
-
----
-
-# What We Build
-
-Our solutions focus on:
-
-- Enterprise Software
-- Financial Systems
-- Artificial Intelligence
-- Business Automation
-- Cloud Platforms
-- APIs & Integrations
-- Quality Engineering
-- Test Automation
-- Internal Developer Platforms
-- Digital Transformation
+| 📊 Observability | Systems are designed to be measurable and diagnosable. |
+| ☁ Infrastructure as Code | Infrastructure is versioned, automated and reproducible. |
 
 ---
 
@@ -106,166 +105,42 @@ Our solutions focus on:
 
 ## 🚧 Davira Finance
 
-Enterprise Financial Management Platform
+Enterprise Financial Management Platform.
 
-Current Status
-
-> Pilot Development
-
-Main capabilities
+Designed to support organizations with:
 
 - Financial Governance
-- Multi-company Management
-- Cash Flow
-- Accounts Payable
-- Accounts Receivable
-- Document Management
-- Executive Dashboards
-- Audit Trail
+- Business Management
+- Multi-company Operations
+- Executive Reporting
+- Auditability
+- Secure Document Management
+- Compliance
 - Business Intelligence
-- LGPD Compliance
 
-More products will be announced as they evolve.
-
----
-
-# Technology Stack
-
-## Frontend
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-
-## Backend
-
-- Node.js
-- PostgreSQL
-- Prisma ORM
-- REST APIs
-
-## DevOps
-
-- Docker
-- GitHub Actions
-- Terraform
-
-## Cloud
-
-- Google Cloud Platform
-- Cloud Run
-- Cloud SQL
-- Cloud Storage
-- Secret Manager
-
-## Quality
-
-- Playwright
-- Vitest
-- Testing Library
-- GitHub Actions
-
----
-
-# Development Workflow
-
-Every project follows the same engineering lifecycle.
-
-```text
-Business Discovery
-        │
-        ▼
-Requirements
-        │
-        ▼
-Specification (SDD)
-        │
-        ▼
-Architecture
-        │
-        ▼
-Security Review
-        │
-        ▼
-Privacy Review
-        │
-        ▼
-Development
-        │
-        ▼
-Automated Testing
-        │
-        ▼
-Code Review
-        │
-        ▼
-Documentation
-        │
-        ▼
-Release
-```
-
----
-
-# Documentation
-
-Documentation is considered part of the product.
-
-Every feature includes:
-
-- User Story
-- Functional Specification
-- Business Rules
-- Acceptance Criteria
-- Architecture Notes
-- Security Analysis
-- Privacy Analysis
-- Test Cases
-- Release Notes
-- Change Log
-- Traceability
+More products will be introduced as Davira Group continues to grow.
 
 ---
 
 # Security
 
-Security is built into every stage of the software lifecycle.
+Security is not a feature.
 
-Our engineering practices include:
+It is a fundamental engineering principle adopted throughout the entire software lifecycle.
 
-- OWASP ASVS
-- OWASP Top 10
+Our products are designed following internationally recognized practices, including:
+
+- Secure by Design
+- Privacy by Design
 - Least Privilege
 - Defense in Depth
 - Secure Defaults
+- Zero Trust
+- OWASP ASVS
+- OWASP Top 10
 - Audit Logging
 - Encryption
 - Secrets Management
-- Infrastructure as Code
-- Secure CI/CD
-
----
-
-# Open Source
-
-Selected tools, templates and supporting libraries may become open source over time.
-
-Commercial products remain proprietary unless explicitly stated otherwise.
-
----
-
-# Roadmap
-
-| Status | Initiative |
-|---------|------------|
-| ✅ | Davira Group Foundation |
-| 🚧 | Davira Finance |
-| 🔜 | Enterprise AI Platform |
-| 🔜 | Internal Developer Platform |
-| 🔜 | Quality Engineering Toolkit |
-| 🔜 | Business Automation Suite |
 
 ---
 
@@ -283,6 +158,6 @@ Commercial products remain proprietary unless explicitly stated otherwise.
 
 ### Engineering Software That Lasts
 
-Secure • Scalable • Intelligent
+**Engineering Excellence • Quality • Security • Intelligence**
 
 </div>
